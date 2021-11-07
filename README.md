@@ -1,2 +1,2 @@
 # P2-Drum_Kit
-A Drum kit website creates using HTML CSS and JS
+A Drum kit simulator created using HTML CSS and JS
