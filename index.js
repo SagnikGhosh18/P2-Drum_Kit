@@ -58,7 +58,7 @@ function makeSound(c)
     }
 }
 
-//Adding animations
+//Adding animations for keypress events
 
 function buttonAnimation(key)
 {
