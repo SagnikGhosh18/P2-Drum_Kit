@@ -1,4 +1,4 @@
-// Adding event listeners, anonymous functions and playing sounds
+// Adding mouse click event listeners, anonymous functions and playing sounds by making objects
 var len = document.querySelectorAll(".drum").length;
 for(var i=0;i<len;i++)
 {
